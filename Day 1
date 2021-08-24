@@ -1,4 +1,6 @@
-print("Hi there! Welcome to the brand name generator"\n)
+#Create a 'band name generator' using what you've learned 
+
+print("Hi there! Welcome to the band name generator"\n)
 City = input("What city did you grow up in?"\n)
 Pet = input("Great! Now, what's the name of your pet?"\n)
 print(("Cool! Do you know that your band name will probably be") + (" ") + City + Pet + ("?"))
