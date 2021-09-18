@@ -16,6 +16,8 @@ total_bill = total_tip_amount + bill
 
 bill_per_person = total_bill / people
 
-final_bill = round(bill_per_person, 3)
+final_bill = round(bill_per_person, 2)
+
+final_bill = "{:.2f}".format(bill_per_person)
 
 print(f"You have to pay {bill_per_person}")
