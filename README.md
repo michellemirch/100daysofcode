@@ -1,1 +1,1 @@
-# 100daysofcode
+# 100daysofcode is a course on Udemy. 
