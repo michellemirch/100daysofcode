@@ -1,4 +1,4 @@
-#Create a 'band name generator' using what you've learned 
+#Create a 'band name generator' 
 
 print("Hi there! Welcome to the band name generator"\n)
 City = input("What city did you grow up in?"\n)
